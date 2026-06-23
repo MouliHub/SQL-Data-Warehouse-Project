@@ -21,7 +21,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data and s
 * **Scope:** Focus on the latest dataset only; historization of data is not required.
 * **Documentation:** Maintain clear documentation of the data model to support both business stakeholders and analytics teams.
 
-  ## BI: Analytics & Reporting (Data Analytics)
+## BI: Analytics & Reporting (Data Analytics)
 
 ### Objective
 
